@@ -1,3 +1,8 @@
+require 'json'
+require './twitty/simple_o_auth'
+require './twitty/tweet'
+require './twitty/tweeter'
+
 class Twitty
   attr_accessor :access_token, :access_token_secret, :consumer_key, :consumer_secret, :simple_oauth
 
