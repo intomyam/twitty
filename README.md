@@ -27,3 +27,11 @@ end
 recent_tweet = MYBOT.timeline.first
 recent_tweet.reply "Hello #{recent_tweet.user.name}!"
 ```
+
+*********
+
+Copyright (c) 2014 silva(http://silva.vc/)
+
+Released under the MIT license
+
+http://opensource.org/licenses/mit-license.php

@@ -1,3 +1,7 @@
+#Copyright (c) 2014 silva(http://silva.vc/)
+#Released under the MIT license
+#http://opensource.org/licenses/mit-license.php
+
 class Twitty
   class Tweet
     def initialize(content)
